@@ -1,10 +1,3 @@
-# Bookmarker LocalStorage App
+# BookMarker App
 
-Simple application for bookmarking webistes. This app goes along with the "Learn JavaScript By Building A Bookmarking App" tutorial. It uses localStorage for storing bookmarks 
-
-### Version
-1.0.0
-
-### Usage
-
-Just download and open index.html. It is all client side
+## A simple bookmarking app. This app uses no frameworks and was built using vanilla.js and bootstrap. It uses localStorage for storing bookmarks. It uses ES5 syntax and Regex.
